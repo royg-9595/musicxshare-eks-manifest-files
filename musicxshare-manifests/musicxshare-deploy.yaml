@@ -18,7 +18,7 @@ spec:
         app: musicxshare
     spec:
       containers:
-      - image: 365591124323.dkr.ecr.us-east-1.amazonaws.com/jayanthroyg/musicshare:v1.1.11
+      - image: 365591124323.dkr.ecr.us-east-1.amazonaws.com/jayanthroyg/new-ecr-musicxshare:v1.1.12
         name: musicshare
         resources: {}
 status: {}
